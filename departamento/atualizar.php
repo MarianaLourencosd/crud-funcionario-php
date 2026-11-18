@@ -1,5 +1,6 @@
 <?php
 
+$id = $_POST['id'];
 $nome = $_POST['nome'];
 $descricao =  $_POST['descricao'];
 $responsavel =  $_POST['responsavel'];
