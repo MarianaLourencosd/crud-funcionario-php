@@ -28,16 +28,6 @@
           <a class="dropdown-item" href="/crud-funcionario-php/departamento/listar.php">Listar</a>          
         </div>
       </li>
-
-       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Produtos
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="/crud-funcionario-php/produto/adicionar.php">Adicionar</a>
-          <a class="dropdown-item" href="/crud-funcionario-php/produto/listar.php">Listar</a>          
-        </div>
-      </li>
     </ul>
   </div>
 </nav>
